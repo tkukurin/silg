@@ -40,7 +40,7 @@ The GitHub repository for each environment are found at
 
 - [RTFM](https://github.com/facebookresearch/RTFM)
 - [Messenger](https://github.com/ahjwang/messenger-emma/) 
-- [NetHack](https://github.com/facebookresearch/nle)
+- [NetHack](https://github.com/heiner/nle)
 - [Alfworld](https://github.com/alfworld/alfworld)
 - Sym and VisTouchdown are included in this repository
 
